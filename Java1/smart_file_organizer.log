@@ -1,0 +1,402 @@
+Mar 14, 2026 2:05:32 PM com.smartfileorganizer.Main main
+INFO: Starting Smart File Organizer...
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Images [jpg, jpeg, png, gif, bmp, svg, webp, ico]
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Documents [pdf, docx, doc, txt, xlsx, xls, pptx, ppt, odt, csv, rtf]
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Music [mp3, wav, flac, aac, ogg, wma]
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Videos [mp4, mkv, avi, mov, wmv, flv, webm]
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Archives [zip, rar, 7z, tar, gz, bz2]
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Code [java, py, js, html, css, cpp, c, xml, json]
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Executables [exe, msi, bat, sh, jar]
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.util.XMLParser parseCategories
+INFO: Loaded 7 file categories from XML configuration
+Mar 14, 2026 2:05:33 PM com.smartfileorganizer.Main lambda$main$0
+INFO: Application UI launched successfully
+Mar 14, 2026 2:05:43 PM com.smartfileorganizer.ui.MainUI onBrowse
+INFO: Folder selected: C:\Users\Arunkumar\Desktop
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: 4th year.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: 5sem party.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: alloy-asphalt-auto-241316.jpg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Ambur-Chicken-Biriyani.jpg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Arduino IDE.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Arun and diwakar party.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: bw.pdf
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: bw1.pdf
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Chicken-Curry-2.jpg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: desktop.ini
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: DT PPT - Copy.pptx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: egg-puffs-1024x1024.jpg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Gemini_Generated_Image_okdoi9okdoi9okdo.png
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Gemini_Generated_Image_sisynzsisynzsisy.png
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Gemini_Generated_Image_vh8iv8vh8iv8vh8i.png
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Gemini_Generated_Image_wncsn1wncsn1wncs.png
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: GitHub Desktop.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Hogwarts Legacy.url
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: images.jpg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: KHWK9LHG82PXRWYATQJZ1FFG.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Kumararun (Arunkumar) - Chrome.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Loom.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: manoj v.docx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: maxresdefault.jpg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Microsoft Edge.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: MinGW Installer.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: ML TSK 1.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: ML tsk 2.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Multimodal_Wheelchair_Presentation.pptx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: New Text Document.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Opera Browser.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: photo of a egg cooked - Search Images.html
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Project.csv
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Project.csv.xlsx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: RBP.pptx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: report_adm_ticket.pdf
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Rti.pdf
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: SEHTHI.1.pptx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Spotify.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: TeamNo_RBP_5sem_rover.pptx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: TurboVPN.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Untitled document.docx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: urban legends.pdf
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: uTorrent Web.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Visual Studio Code.lnk
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: WhatsApp Image 2026-01-11 at 10.51.56.jpeg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: WhatsApp Image 2026-01-11 at 10.58.55.jpeg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: WhatsApp Image 2026-01-11 at 11.02.02.jpeg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: WhatsApp Image 2026-01-11 at 3.24.36 PM.jpeg
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: Wheel chait.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: ~$SEHTHI.1.pptx
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: 🚀 Excited to share my CodeAlpha In.txt
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: Total files found: 52
+Mar 14, 2026 2:05:47 PM com.smartfileorganizer.util.FileUtils createDirectoryIfNotExists
+INFO: Created directory: C:\Users\Arunkumar\Desktop\Documents
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: 4th year.txt -> Documents/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: 5sem party.txt -> Documents/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.util.FileUtils createDirectoryIfNotExists
+INFO: Created directory: C:\Users\Arunkumar\Desktop\Images
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: alloy-asphalt-auto-241316.jpg -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Ambur-Chicken-Biriyani.jpg -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.util.FileUtils createDirectoryIfNotExists
+INFO: Created directory: C:\Users\Arunkumar\Desktop\Others
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Arduino IDE.lnk -> Others/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Arun and diwakar party.txt -> Documents/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: bw.pdf -> Documents/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: bw1.pdf -> Documents/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Chicken-Curry-2.jpg -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: desktop.ini -> Others/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: DT PPT - Copy.pptx -> Documents/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: egg-puffs-1024x1024.jpg -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Gemini_Generated_Image_okdoi9okdoi9okdo.png -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Gemini_Generated_Image_sisynzsisynzsisy.png -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Gemini_Generated_Image_vh8iv8vh8iv8vh8i.png -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Gemini_Generated_Image_wncsn1wncsn1wncs.png -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: GitHub Desktop.lnk -> Others/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Hogwarts Legacy.url -> Others/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: images.jpg -> Images/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: KHWK9LHG82PXRWYATQJZ1FFG.txt -> Documents/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Kumararun (Arunkumar) - Chrome.lnk -> Others/
+Mar 14, 2026 2:05:48 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Loom.lnk -> Others/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: manoj v.docx -> Documents/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: maxresdefault.jpg -> Images/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Microsoft Edge.lnk -> Others/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: MinGW Installer.lnk -> Others/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: ML TSK 1.txt -> Documents/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: ML tsk 2.txt -> Documents/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Multimodal_Wheelchair_Presentation.pptx -> Documents/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: New Text Document.txt -> Documents/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Opera Browser.lnk -> Others/
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.util.FileUtils createDirectoryIfNotExists
+INFO: Created directory: C:\Users\Arunkumar\Desktop\Code
+Mar 14, 2026 2:05:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: photo of a egg cooked - Search Images.html -> Code/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Project.csv -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Project.csv.xlsx -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: RBP.pptx -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: report_adm_ticket.pdf -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Rti.pdf -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: SEHTHI.1.pptx -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Spotify.lnk -> Others/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: TeamNo_RBP_5sem_rover.pptx -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: TurboVPN.lnk -> Others/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Untitled document.docx -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: urban legends.pdf -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: uTorrent Web.lnk -> Others/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Visual Studio Code.lnk -> Others/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: WhatsApp Image 2026-01-11 at 10.51.56.jpeg -> Images/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: WhatsApp Image 2026-01-11 at 10.58.55.jpeg -> Images/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: WhatsApp Image 2026-01-11 at 11.02.02.jpeg -> Images/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: WhatsApp Image 2026-01-11 at 3.24.36 PM.jpeg -> Images/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: Wheel chait.txt -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: ~$SEHTHI.1.pptx -> Documents/
+Mar 14, 2026 2:05:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: 🚀 Excited to share my CodeAlpha In.txt -> Documents/
+Mar 14, 2026 2:05:51 PM com.smartfileorganizer.ui.MainUI$1 done
+INFO: Organization completed. Total files moved: 52
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.Main main
+INFO: Starting Smart File Organizer...
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Images [jpg, jpeg, png, gif, bmp, svg, webp, ico]
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Documents [pdf, docx, doc, txt, xlsx, xls, pptx, ppt, odt, csv, rtf]
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Music [mp3, wav, flac, aac, ogg, wma]
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Videos [mp4, mkv, avi, mov, wmv, flv, webm]
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Archives [zip, rar, 7z, tar, gz, bz2]
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Code [java, py, js, html, css, cpp, c, xml, json]
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.util.XMLParser parseCategories
+FINE: Loaded category: Executables [exe, msi, bat, sh, jar]
+Mar 14, 2026 2:06:16 PM com.smartfileorganizer.util.XMLParser parseCategories
+INFO: Loaded 7 file categories from XML configuration
+Mar 14, 2026 2:06:17 PM com.smartfileorganizer.Main lambda$main$0
+INFO: Application UI launched successfully
+Mar 14, 2026 2:06:43 PM com.smartfileorganizer.ui.MainUI onBrowse
+INFO: Folder selected: C:\Users\Arunkumar\Downloads
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: 20260310_211144.jpg
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: desktop.ini
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: final multimodel wheels (1).pdf
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: final multimodel wheels (1).pptx
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_0413 (1).PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_0413 (2).PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_0413 (3).PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_0413.PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_1030 (1).PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_1030 (2).PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_1030 (3).PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_1030 (4).PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_1030 (5).PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: IMG_1030.PNG
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (1).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (10).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (11).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (2).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (3).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (4).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (5).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (6).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (7).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (8).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2 (9).png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: logo2.png
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: sofian.docx
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: urban legends (1).pdf
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: urban legends.pdf
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: WhatsApp Image 2026-03-13 at 4.18.56 PM.jpeg
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: WhatsApp Image 2026-03-14 at 10.19.17 AM.jpeg
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: File detected: ~$92_Sehthi_Manoj V (1).pptx
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService scanDirectory
+INFO: Total files found: 32
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.util.FileUtils createDirectoryIfNotExists
+INFO: Created directory: C:\Users\Arunkumar\Downloads\Images
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: 20260310_211144.jpg -> Images/
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.util.FileUtils createDirectoryIfNotExists
+INFO: Created directory: C:\Users\Arunkumar\Downloads\Others
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: desktop.ini -> Others/
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.util.FileUtils createDirectoryIfNotExists
+INFO: Created directory: C:\Users\Arunkumar\Downloads\Documents
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService organizeFiles
+SEVERE: Failed to move final multimodel wheels (1).pdf: C:\Users\Arunkumar\Downloads\final multimodel wheels (1).pdf -> C:\Users\Arunkumar\Downloads\Documents\final multimodel wheels (1).pdf: The process cannot access the file because it is being used by another process
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: final multimodel wheels (1).pptx -> Documents/
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_0413 (1).PNG -> Images/
+Mar 14, 2026 2:06:49 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_0413 (2).PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_0413 (3).PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_0413.PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_1030 (1).PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_1030 (2).PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_1030 (3).PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_1030 (4).PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_1030 (5).PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: IMG_1030.PNG -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (1).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (10).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (11).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (2).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (3).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (4).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (5).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (6).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (7).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (8).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2 (9).png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: logo2.png -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: sofian.docx -> Documents/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: urban legends (1).pdf -> Documents/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: urban legends.pdf -> Documents/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: WhatsApp Image 2026-03-13 at 4.18.56 PM.jpeg -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: WhatsApp Image 2026-03-14 at 10.19.17 AM.jpeg -> Images/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.service.FileOrganizerService moveFile
+INFO: File moved: ~$92_Sehthi_Manoj V (1).pptx -> Documents/
+Mar 14, 2026 2:06:50 PM com.smartfileorganizer.ui.MainUI$1 done
+INFO: Organization completed. Total files moved: 31

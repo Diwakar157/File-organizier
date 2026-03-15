@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileCategories>
+    <category name="Images">
+        <extension>jpg</extension>
+        <extension>jpeg</extension>
+        <extension>png</extension>
+        <extension>gif</extension>
+        <extension>bmp</extension>
+        <extension>svg</extension>
+        <extension>webp</extension>
+        <extension>ico</extension>
+    </category>
+
+    <category name="Documents">
+        <extension>pdf</extension>
+        <extension>docx</extension>
+        <extension>doc</extension>
+        <extension>txt</extension>
+        <extension>xlsx</extension>
+        <extension>xls</extension>
+        <extension>pptx</extension>
+        <extension>ppt</extension>
+        <extension>odt</extension>
+        <extension>csv</extension>
+        <extension>rtf</extension>
+    </category>
+
+    <category name="Music">
+        <extension>mp3</extension>
+        <extension>wav</extension>
+        <extension>flac</extension>
+        <extension>aac</extension>
+        <extension>ogg</extension>
+        <extension>wma</extension>
+    </category>
+
+    <category name="Videos">
+        <extension>mp4</extension>
+        <extension>mkv</extension>
+        <extension>avi</extension>
+        <extension>mov</extension>
+        <extension>wmv</extension>
+        <extension>flv</extension>
+        <extension>webm</extension>
+    </category>
+
+    <category name="Archives">
+        <extension>zip</extension>
+        <extension>rar</extension>
+        <extension>7z</extension>
+        <extension>tar</extension>
+        <extension>gz</extension>
+        <extension>bz2</extension>
+    </category>
+
+    <category name="Code">
+        <extension>java</extension>
+        <extension>py</extension>
+        <extension>js</extension>
+        <extension>html</extension>
+        <extension>css</extension>
+        <extension>cpp</extension>
+        <extension>c</extension>
+        <extension>xml</extension>
+        <extension>json</extension>
+    </category>
+
+    <category name="Executables">
+        <extension>exe</extension>
+        <extension>msi</extension>
+        <extension>bat</extension>
+        <extension>sh</extension>
+        <extension>jar</extension>
+    </category>
+</fileCategories>
